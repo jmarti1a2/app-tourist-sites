@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Central Park",
+    "localization": "Central Park es un parque urbano público situado en el distrito metropolitano de Manhattan, en la ciudad de Nueva York, Estados Unidos.",
+    "place": "New York",
+    "point": "Central Park",
+    "temperature": "Durante el transcurso del año, la temperatura generalmente varía de -2 °C a 29 °C y rara vez baja a menos de -10 °C o sube a más de 34 °C.",
+    "information": "",
+    "activities": "",
+    "urlPicture": "https://cdn.pixabay.com/photo/2015/11/16/19/33/central-park-1046220_960_720.jpg"
+  },
+  {
+    "name": "Empire State",
+    "localization": "El Empire State Building es un rascacielos situado en la intersección de la Quinta Avenida y West 34th Street, en la ciudad de Nueva York",
+    "place": "New York",
+    "point": "Empire State",
+    "temperature": "Durante el transcurso del año, la temperatura generalmente varía de -2 °C a 29 °C y rara vez baja a menos de -10 °C o sube a más de 34 °C.",
+    "information": "",
+    "activities": "",
+    "urlPicture": "https://cdn.pixabay.com/photo/2012/02/29/15/43/empire-state-building-19109_960_720.jpg"
+  },
+  {
+    "name": "Estatua de la Libertad",
+    "localization": "La Estatua de La Libertad se encuentra en la isla de la Libertad al sur de la isla de Manhattan, junto a la desembocadura del río Hudson y cerca de la isla Ellis.",
+    "place": "New York",
+    "point":"Estatua de la Libertad",
+    "temperature": "Durante el transcurso del año, la temperatura generalmente varía de -2 °C a 29 °C y rara vez baja a menos de -10 °C o sube a más de 34 °C.",
+    "information": "",
+    "activities": "",
+    "urlPicture": "https://cdn.pixabay.com/photo/2016/06/03/16/35/statue-of-liberty-1433761_960_720.jpg"
+  },
+  {
+    "name": "Times Square",
+    "localization": "El Times Square está situada en la esquina de la avenida Broadway y la Séptima Avenida. ",
+    "place": "New York",
+    "point": "Times Square",
+    "temperature": "Durante el transcurso del año, la temperatura generalmente varía de -2 °C a 29 °C y rara vez baja a menos de -10 °C o sube a más de 34 °C.",
+    "information": "",
+    "activities": "",
+    "urlPicture": "https://cdn.pixabay.com/photo/2017/10/10/04/55/times-square-2835995_960_720.jpg"
+  },
+  {
+    "name": "Wall Street",
+    "localization": "Wall Street es una calle de ocho cuadras de largo en el distrito financiero del Lower Manhattan en Nueva York. Va desde Broadway en el oeste hasta South Street y el East River en el este. ",
+    "place": "New York",
+    "point":  "Wall Street",
+    "temperature": "Durante el transcurso del año, la temperatura generalmente varía de -2 °C a 29 °C y rara vez baja a menos de -10 °C o sube a más de 34 °C.",
+    "information": "",
+    "activities": "",
+    "urlPicture": "https://cdn.pixabay.com/photo/2019/11/25/13/58/nyc-4652143_960_720.jpg"
+  },
+  {
+    "name": "World Trade Center",
+    "localization": "Manhattan, Ciudad de Nueva York, Nueva York, Estados Unidos",
+    "place": "New York",
+    "point": "World Trade Center",
+    "temperature": "Durante el transcurso del año, la temperatura generalmente varía de -2 °C a 29 °C y rara vez baja a menos de -10 °C o sube a más de 34 °C.",
+    "information": "",
+    "activities": "",
+    "urlPicture": "https://cdn.pixabay.com/photo/2015/04/25/15/03/word-trade-center-739214_960_720.jpg"
+  }
+]

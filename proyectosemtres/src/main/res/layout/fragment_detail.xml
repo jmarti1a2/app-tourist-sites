@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context=".detalle.DetalleActivity">
+
+        <TextView
+            android:id="@+id/name_text_view"
+            style="@style/Texto_titulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="32dp"
+            android:layout_marginEnd="8dp"
+            android:text="@string/central_park"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/picture_image_view"
+            android:layout_width="0dp"
+            android:layout_height="300dp"
+            android:layout_marginTop="16dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/name_text_view"
+            app:srcCompat="@drawable/central_park"
+            tools:ignore="ContentDescription"/>
+
+        <TextView
+            android:id="@+id/label_place_text_view"
+            style="@style/Texto_subtitulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            android:text="@string/ciudad"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/picture_image_view" />
+
+        <TextView
+            android:id="@+id/place_text_view"
+            style="@style/Texto_normal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            android:text="@string/nombre1_new_york"
+            app:layout_constraintStart_toEndOf="@+id/label_place_text_view"
+            app:layout_constraintTop_toBottomOf="@+id/picture_image_view"/>
+
+        <TextView
+            android:id="@+id/label_point_text_view"
+            style="@style/Texto_subtitulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            android:text="@string/nombrepoint"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/label_place_text_view"/>
+
+        <TextView
+            android:id="@+id/point_text_view"
+            style="@style/Texto_normal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            android:text="@string/central2_park"
+            app:layout_constraintStart_toEndOf="@+id/label_point_text_view"
+            app:layout_constraintTop_toBottomOf="@+id/label_place_text_view"/>
+
+        <TextView
+            android:id="@+id/label_information_text_view"
+            style="@style/Texto_subtitulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="52dp"
+            android:text="@string/informacion_general"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/label_place_text_view" />
+
+        <TextView
+            android:id="@+id/information_text_view"
+            style="@style/Texto_normal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"
+            android:text="@string/infogral"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/label_information_text_view" />
+
+        <TextView
+            android:id="@+id/label_activities_text_view"
+            style="@style/Texto_subtitulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/actividades"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/information_text_view" />
+
+        <TextView
+            android:id="@+id/activities_text_view"
+            style="@style/Texto_normal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/actividades_central_park"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/label_activities_text_view" />
+
+        <TextView
+            android:id="@+id/label_temperature_text_view"
+            style="@style/Texto_subtitulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/temperatura"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/activities_text_view" />
+
+        <TextView
+            android:id="@+id/temperature_text_view"
+            style="@style/Texto_normal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/temp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/label_temperature_text_view" />
+
+        <TextView
+            android:id="@+id/label_localization_text_view"
+            style="@style/Texto_subtitulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/ubicacion"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/temperature_text_view" />
+
+        <TextView
+            android:id="@+id/localization_text_view"
+            style="@style/Texto_normal"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:text="@string/ubicacion_central_park"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/label_localization_text_view" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

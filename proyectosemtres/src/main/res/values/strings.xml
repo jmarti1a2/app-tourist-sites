@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Los MasterDevs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ciudad_nacimiento">Ciudad de Nacimiento</string>
+    <string name="estatura">Estatura</string>
+    <string name="femenino">Femenino</string>
+    <string name="genero">Género</string>
+    <string name="info">"Nombre: %s,\n estatura: %f,\n género: %s,\n poderes: %s, \ciudad: %s"</string>
+    <string-array name="lista_ciudades">
+        <item>Ciudad Central</item>
+        <item>Ciudad Gótica</item>
+        <item>Temiscira</item>
+        <item>Metrópolis</item>
+    </string-array>
+    <string name="masculino">Masculino</string>
+    <string name="nombre">Nombre:</string>
+    <string name="nombre1_new_york">New York</string>
+    <string name="ubicacion">Ubicación:</string>
+    <string name="ubicacion_central_park">Central Park es un parque urbano público situado en el distrito metropolitano de Manhattan, en la ciudad de Nueva York, Estados Unidos. El parque tiene forma rectangular y dimensiones aproximadas de 4000 x 800 m</string>
+    <string name="registrar">Registrar</string>
+    <string name="registro">Registro de un Superhoreo</string>
+    <string name="super_fuerza">Super Fuerza</string>
+    <string name="central_park">Central Park</string>
+    <string name="telequinesis">Telequinesis</string>
+    <string name="velocidad">Super velocidad</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="nombrepoint">Nombre</string>
+    <string name="central2_park">Central Park</string>
+    <string name="informacion_general">Información General</string>
+    <string name="infogral">Central Park es uno de los lugares turísticos en Nueva York en invierno más bonitos, época en la que está cubierto de nieve, también en otoño, estación en que sus praderas y árboles se tiñen de colores ocres y en primavera y verano, cuando el parque luce en todo su esplendor.
+    Con 340 hectáreas, unos 4 kilómetros de largo y 800 metros de ancho, este es uno de los mayores parques del planeta, el principal pulmón verde de la ciudad y junto con el Hyde Park de Londres, el parque urbano más famoso del mundo.
+</string>
+    <string name="actividades">Actividades para hacer en Central Park</string>
+    <string name="actividades_central_park">•	Tour en bicicleta, alquilar una barca y surcar The Lake, patinar sobre hielo en Navidad,
+    ir al cine o al teatro, visitar el met y el museo de historia natural, ir a las piscinas públicas en verano
+</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="temp">En New York City, Central Park, los veranos son calurosos, húmedos y mojados; los inviernos son muy frío, nevados y ventosos y está parcialmente nublado durante todo el año. Durante el transcurso del año, la temperatura generalmente varía de -2 °C a 29 °C y rara vez baja a menos de -10 °C o sube a más de 34 °C.</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="notifications">Notificaciones</string>
+    <string name="preferences">Ajustes</string>
+
+</resources>
