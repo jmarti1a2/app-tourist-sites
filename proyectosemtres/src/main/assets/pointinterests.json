@@ -5,8 +5,8 @@
     "place": "New York",
     "point": "Central Park",
     "temperature": "Durante el transcurso del año, la temperatura generalmente varía de -2 °C a 29 °C y rara vez baja a menos de -10 °C o sube a más de 34 °C.",
-    "information": "",
-    "activities": "",
+    "information": "El corazón y el alma de Manhattan, Central Park tiene 843 acres (341 hectáreas) de espacio verde con senderos para correr, un lago con botes, estanques, un zoológico, fuentes, estatuas, jardines y una pista de patinaje. Tanto los neoyorquinos como los visitantes se han reunido en este Monumento Histórico Nacional durante todo el año desde 1857 para disfrutar de un respiro de la jungla de cemento de Manhattan.",
+    "activities": "tour en carruaje o en bicicleta, recorrido en bicitaxi, visita a zoologico de central park, practicar natación en piscinas públicas, recorrido en bote",
     "urlPicture": "https://cdn.pixabay.com/photo/2015/11/16/19/33/central-park-1046220_960_720.jpg"
   },
   {
@@ -15,8 +15,8 @@
     "place": "New York",
     "point": "Empire State",
     "temperature": "Durante el transcurso del año, la temperatura generalmente varía de -2 °C a 29 °C y rara vez baja a menos de -10 °C o sube a más de 34 °C.",
-    "information": "",
-    "activities": "",
+    "information": "Maravíllese ante las vistas sin obstáculos de 360 grados desde el Empire State Building y explore su museo interactivo y mucho más con esta entrada combinada. Vea los monumentos de Nueva York desde el observatorio del piso 86, disfrute de las exposiciones y los visores de realidad aumentada en el piso 80 y explore las envolventes exposiciones del museo del segundo piso sobre la historia del edificio.",
+    "activities": "Disfrute de las vistas desde el Empire State Building en el corazón de Nueva York, visita a terraza en el piso 86 y museo en el segundo piso",
     "urlPicture": "https://cdn.pixabay.com/photo/2012/02/29/15/43/empire-state-building-19109_960_720.jpg"
   },
   {
@@ -25,8 +25,8 @@
     "place": "New York",
     "point":"Estatua de la Libertad",
     "temperature": "Durante el transcurso del año, la temperatura generalmente varía de -2 °C a 29 °C y rara vez baja a menos de -10 °C o sube a más de 34 °C.",
-    "information": "",
-    "activities": "",
+    "information": "Visite la icónica estatua de la Libertad, y pase el tiempo en la isla de Ellis Island, una puerta de entrada a través de la cual millones de inmigrantes pasaron a su llegada a los Estados Unidos, en esta visita perfecta de medio día.",
+    "activities": "paseo en ferry, visita a isla Ellis y museo de inmigración.",
     "urlPicture": "https://cdn.pixabay.com/photo/2016/06/03/16/35/statue-of-liberty-1433761_960_720.jpg"
   },
   {
@@ -35,8 +35,8 @@
     "place": "New York",
     "point": "Times Square",
     "temperature": "Durante el transcurso del año, la temperatura generalmente varía de -2 °C a 29 °C y rara vez baja a menos de -10 °C o sube a más de 34 °C.",
-    "information": "",
-    "activities": "",
+    "information": "Las luces de neón y las vallas publicitarias de video de Times Square son uno de los lugares más conocidos de la ciudad de Nueva York. Esta intersección triangular entre Broadway, 42nd Street y Seventh Avenue es el hogar de los famosos teatros de la Gran Manzana y el lanzamiento anual de la bola de Nochevieja, una experiencia esencial en Manhattan.",
+    "activities": "recorrido en autobus, entrada al famoso museo de cera Madame Tussauds NYC",
     "urlPicture": "https://cdn.pixabay.com/photo/2017/10/10/04/55/times-square-2835995_960_720.jpg"
   },
   {
@@ -45,9 +45,9 @@
     "place": "New York",
     "point":  "Wall Street",
     "temperature": "Durante el transcurso del año, la temperatura generalmente varía de -2 °C a 29 °C y rara vez baja a menos de -10 °C o sube a más de 34 °C.",
-    "information": "",
-    "activities": "",
-    "urlPicture": "https://cdn.pixabay.com/photo/2019/11/25/13/58/nyc-4652143_960_720.jpg"
+    "information": "Las ocho cuadras de Wall Street están llenas de historias del pasado y del presente, pero otros recorridos a pie similares no ofrecen una mirada exclusiva a la historia del área con alguien que trabajó en Wall Street.",
+    "activities": "recorido a pie por el famoso Wall Street, visita a la Bolsa de Nueva York y el Federal Hall",
+    "urlPicture": "https://cdn.pixabay.com/photo/2017/06/16/11/29/new-york-2408785_960_720.jpg"
   },
   {
     "name": "World Trade Center",
@@ -55,8 +55,8 @@
     "place": "New York",
     "point": "World Trade Center",
     "temperature": "Durante el transcurso del año, la temperatura generalmente varía de -2 °C a 29 °C y rara vez baja a menos de -10 °C o sube a más de 34 °C.",
-    "information": "",
-    "activities": "",
-    "urlPicture": "https://cdn.pixabay.com/photo/2015/04/25/15/03/word-trade-center-739214_960_720.jpg"
+    "information": "Con su aguja fácilmente reconocible, One World Trade Center es un ícono del horizonte de la ciudad de Nueva York. Inaugurado en 2014, el rascacielos con espejos plateados tiene una altura de 541 metros (1,776 pies), lo que lo convierte en el edificio más alto del hemisferio occidental. Las plataformas de observación del One World Observatory ofrecen vistas increíbles.",
+    "activities": "Visita al One World Observatory",
+    "urlPicture": "https://cdn.pixabay.com/photo/2017/09/29/23/54/america-2800896_960_720.jpg"
   }
 ]
